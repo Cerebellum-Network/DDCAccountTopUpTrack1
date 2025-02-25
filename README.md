@@ -1,10 +1,11 @@
+<div align="center">
+  <img src="./img.png" align="left" width="100" height="100">
+  <img src="./img_1.png" align="right" width="100" height="100">
 
+  <h1>Cere <> School 42 Hackathon</h1>
+</div>
 
-
-
-Cere <> School 42 Hackathon
-
-
+<br><br><br>
 
 # 🚀 **Quick Start Guide for Track 1: DDC Account Top-Up System**
 
