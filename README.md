@@ -6,8 +6,8 @@
   <h1>Cere <> School 42 Hackathon</h1>
 </div>
 
-
-# 🚀 Quick Start Guide for Track 1: DDC Account Top-Up System
+<br><br><br>
+# 🚀 **Quick Start Guide for Track 1: DDC Account Top-Up System**
 
 ## 📋 Table of Contents
 
